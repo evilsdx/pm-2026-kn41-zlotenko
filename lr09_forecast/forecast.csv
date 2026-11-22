@@ -1,3 +1,7 @@
-sprint,start_date,end_date,points_committed,points_done
-1,2026-10-25,2026-11-06,21,16
-2,2026-11-09,2026-11-20,58,58
+scenario,remaining_points,simulations,p50_sprints,p85_sprints,p50_date,p85_date
+Full project baseline,74,10000,7,8,2027-01-31,2027-02-14
+REL-1 full scope baseline,40,10000,3,4,2026-12-06,2026-12-20
+REL-1 remaining after Sprint 1,24,10000,2,3,2026-12-04,2026-12-18
+REL-2 remaining after Sprint 1,34,10000,4,4,2027-01-01,2027-01-01
+Full project remaining after Sprint 1,58,10000,5,6,2027-01-15,2027-01-29
+Full project after simulated closeout,0,10000,0,0,2026-11-20,2026-11-20
